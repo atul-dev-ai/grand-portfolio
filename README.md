@@ -38,18 +38,17 @@ The purpose of building this portfolio website is:
    ```bash
    git clone https://github.com/atul-dev-ai/grand-portfolio.git
    ```
+   
+---
 
+## 🚀 Live Demo
+
+🔥 **Experience the live application here:** 🔗 **[Grand Portfolio Live App](https://github.com/atul-dev-ai/grand-portfolio/)**
   <img width="1898" height="949" alt="image" src="https://github.com/user-attachments/assets/9adbd576-adfa-433c-9cb6-9aca235461a0" />
   
 ---
 
-# 🌐 Live Demo
-- You can view the live version of my portfolio here:
-[Personal Porfolio website]:(https://atul-dev-ai.github.io/grand-portfolio/)
-
----
-
-# 👤 Author
+## 👤 Author
 - Name: Atul Paul
 - University: Daffodil International University
 - Department: Computing & and Information System
