@@ -36,7 +36,8 @@ The purpose of building this portfolio website is:
 ## 📂 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://atul-dev-ai.github.io/grand-portfolio/
+   git clone https://github.com/atul-dev-ai/grand-portfolio.git
+   ```
 
   <img width="1898" height="949" alt="image" src="https://github.com/user-attachments/assets/9adbd576-adfa-433c-9cb6-9aca235461a0" />
   
