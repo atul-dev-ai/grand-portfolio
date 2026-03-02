@@ -1,5 +1,7 @@
-# Personal Portfolio Website
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Grand+Posrfolio&fontSize=75&animation=fadeIn" alt="EncryptoPro Banner" width="100%" />
 
+
+  
 This is my personal portfolio website built to represent my professional identity on the web.  
 It serves as a digital resume where visitors can learn about me, explore my skills, browse through the projects I have built, and find ways to contact me.  
 
